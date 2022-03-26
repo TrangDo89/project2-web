@@ -1,0 +1,29 @@
+body {
+   font-family:"Arial";
+   background: linear-gradient(white, lightblue);
+}
+
+.carousel-inner > .item > img {
+  width:640px;
+  height:420px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+}
+
+th{
+    text-align: center;
+}
+
+.btn btn-info col-2-lg{
+    margin: auto;
+    background-color: white;
+}
+
+button {
+    background-color: white;
+}
+
+table td:hover{
+    background-color: darkgrey;
+}
